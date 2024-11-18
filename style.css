@@ -2,7 +2,7 @@
 
 :root{
   --text-color: #0385ff;
-  --card-front-color: #3aaedc;
+  --card-front-color: #3aaedc48;
   --card-back-color: #0e0c02;
 }
 
@@ -32,11 +32,11 @@ body {
   margin: 1rem 1rem;
   height: 20rem;
   flex-grow: 1;
-  flex-basis: calc(43% - 6rem);
+  flex-basis: calc(34% - 6rem);
 }
 
 .cartao__conteudo p {
-  padding: 5rem;
+  padding: 1rem;
   margin-top: 5rem;
 }
 
