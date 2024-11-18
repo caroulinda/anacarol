@@ -1,33 +1,33 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Quantos animais você tem em casa?',
+    'tenho 2 gatos, 2 cachorros e 1 papagaio'
 )
 
 criaCartao(
     'Programação',
-    'O que é JavaScript?',
-    'O JavaScript é uma linguagem de programação.'
+    'Que faculdade pretende fazer?',
+    'Emfermagem e veterinária'
 )
 
 criaCartao(
     'Programação',
-    'O que é CSS?',
-    'O CSS é uma lingugem de estilização!'
+    'Qual data do ano você gosta mais?',
+    'Natal, Ano novo e meu aniversario'
 )
 
 criaCartao(
     'Programação',
-    'O que é HTML?',
-    'O HTML é uma lingugem de estruturação e semântica do conteúdo.'
+    'Por que quer cursar Emfermagem?',
+    'Para cuidar das pessoas e trabalhar nesa area por que tenho muito interesse'
 )
 criaCartao(
     'Programação',
-    'O que é VSCode?',
-    'O Visual Studio Code é um editor de código com diversas integrações.s'
+    'Que cantores você mais gosta?',
+    'Jorge e Mateu, Henrique e Juliano.'
 )
 criaCartao(
     'Programação',
-    'O que é GitHub?',
-    'O GitHub é uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem.'
+    'Quais são seus talentos?',
+    'Cozinhar e fazer tranças'
 )
